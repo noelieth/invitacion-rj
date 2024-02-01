@@ -1,2 +1,2 @@
-# invitacion-rj
+# Invitation R&J
 Wedding invitation.
